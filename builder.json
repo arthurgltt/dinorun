@@ -1,0 +1,25 @@
+{
+  "project": "Dino Run",
+  "platform": "ios",
+  "github": {
+    "owner": "arthurgltt",
+    "repo": "dinorun"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios",
+    "scheme": "DinoRun",
+    "configuration": "Release",
+    "bundleId": "com.arthurgltt.dinorun"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {
+    "expo": true
+  },
+  "kmp": {},
+  "mobai": {}
+}
